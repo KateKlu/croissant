@@ -1,0 +1,23 @@
+body {
+  background: rgb(250, 224, 176);
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+}
+
+.links a {
+  margin: 20px;
+}
+
+img {
+  max-width: 80%;
+  display: block;
+  margin: 0 auto;
+}
